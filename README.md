@@ -1,1 +1,2 @@
-# Face-and-Smile-Detector
+## Face and Smile Detector
+### pip install opencv-python
